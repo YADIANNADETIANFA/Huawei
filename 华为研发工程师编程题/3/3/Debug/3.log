@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\雅典娜的天罚\desktop\牛客网\华为\华为研发工程师编程题\3\3\源.cpp(16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\雅典娜的天罚\desktop\牛客网\华为\华为研发工程师编程题\3\3\源.cpp(18): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  3.vcxproj -> C:\Users\雅典娜的天罚\Desktop\牛客网\华为\华为研发工程师编程题\3\Debug\3.exe
